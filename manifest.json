@@ -1,0 +1,12 @@
+{
+  "display_name": "三界权能",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "chenfengbai404",
+  "version": "1.0.0",
+  "homePage": "https://github.com/chenfengbai404/sanjie-quanneng",
+  "auto_update": true
+}
