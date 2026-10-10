@@ -1,0 +1,5 @@
+
+#sanjie-btn{position:fixed;right:12px;top:72px;z-index:100000;width:48px;height:48px;border-radius:50%;border:2px solid #6b4423;background:#f3e2c4;color:#7a2e24;font-size:20px;font-family:serif}
+#sanjie-panel{position:fixed;left:50%;top:8vh;transform:translateX(-50%);width:min(680px,94vw);max-height:78vh;overflow:auto;z-index:100001;background:#f3e2c4;color:#3e2a1c;border:3px solid #6b4423;padding:14px;font-family:serif}
+#sanjie-panel button{font-family:inherit;background:#3c2b20;color:#f6eadc;border:1px solid #a56b3c;padding:5px 8px}
+#sanjie-panel .card{background:#f7ecd8;border:1px solid #b08968;padding:8px;margin:8px 0}
